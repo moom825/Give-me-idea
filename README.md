@@ -1,3 +1,3 @@
 # Give-me-idea
-just give me ideas please
+just give me ideas please\
 post them in issues
